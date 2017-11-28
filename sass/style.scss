@@ -814,77 +814,67 @@ padding-top: 10px;
   margin-top: 25px;
 }
 .facebook{
-  background-position: 0px 0px;
-  width: 36px;
-  height: 36px;
-  background-image:url(../img/fb.png) ; 
+background: url(../img/fb.png) no-repeat 0 0;
+  width: 7px;
+  height: 15px; 
+  
 }
 .facebook:hover{
-  background-image: url(../img/fb_hov.png);
- background-position: -36px 0px;
-  width: 35px;
-  height: 35px;
+  background: url(../img/fb_hov.png) no-repeat 0 0;
+  width: 7px;
+  height: 15px;
+  
 }
 .twetter{
-   background-image: url(../img/tw.png);
-  background-position: 0px 0px;
-  width: 36px;
-  height: 36px;
+  background: url(../img/tw.png) no-repeat 0 0;
+  width: 14px;
+  height: 11px;
 }
 .twetter:hover{
-  background-image: url(../img/twitter_hov.png) ;
-   background-position: -36px 0px;
-  width: 35px;
-  height: 35px;
+background: url(../img/tw_hov.png) no-repeat 0 0;
+  width: 14px;
+  height: 11px;
 }
 .dribble{
-    background-image: url(../img/db.png);
-    background-position: 0px 0px;
-  width: 36px;
-  height: 36px;
+    background: url(../img/db.png) no-repeat 0 0;
+  width: 16px;
+  height: 16px;
   
 }
 .dribble:hover{
-  background-image: url(../img/db_hov.png);
-  background-position: -36px 0px;
-  width: 35px;
-  height: 35px;
+ background: url(../img/db_hov.png.) no-repeat 0 0;
+  width: 16px;
+  height: 16px;
 }
 .instagram{
-   background-image: url(../img/ins.png);
-  background-position: 0px 0px;
-  width: 36px;
-  height: 36px;
+   background: url(../img/in.png) no-repeat 0 0;
+  width: 15px;
+  height: 15px;
 }
 .instagram:hover{
-   background-image: url(../img/instagram_hov.png);
-  background-position: -36px 0px;
-  width: 35px;
-  height: 35px;
+  background: url(../img/in_hov.png) no-repeat 0 0;
+  width: 15px;
+  height: 15px;
 }
 .google{
-background-image: url(../img/go.png);
-  background-position: 0px 0px;
-  width: 36px;
-  height: 36px;
+background: url(../img/gog.png) no-repeat 0 0;
+  width: 15px;
+  height: 14px;
 }
 .google:hover{
-  background-image: url(../img/google_hov.png);
-  background-position: -36px 0px;
-  width: 35px;
-  height: 35px;
+  background: url(../img/gog_hov.png) no-repeat 0 0;
+  width: 15px;
+  height: 14px;
 }
 .youtube{
-background-image: url(../img/yout.png);
-  background-position: 0px 0px;
-  width: 36px;
-  height: 36px;
+background: url(../img/yout.png) no-repeat 0 0;
+  width: 17px;
+  height: 11px;
 }
 .youtube:hover{
-  background-image: url(../img/youtube_hov.png);
-  background-position: -36px 0px;
-  width: 35px;
-  height: 35px;
+  background: url(../img/yout_hov.png) no-repeat 0 0;
+  width: 17px;
+  height: 11px;
 }
 .footer-copyright{
  display: -webkit-flex;

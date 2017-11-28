@@ -1441,101 +1441,89 @@ button {
 
 /* line 816, ../sass/style.scss */
 .facebook {
-  background-position: 0px 0px;
-  width: 36px;
-  height: 36px;
-  background-image: url(../img/fb.png);
+  background: url(../img/fb.png) no-repeat 0 0;
+  width: 7px;
+  height: 15px;
 }
 
 /* line 822, ../sass/style.scss */
 .facebook:hover {
-  background-image: url(../img/fb_hov.png);
-  background-position: -36px 0px;
-  width: 35px;
-  height: 35px;
+  background: url(../img/fb_hov.png) no-repeat 0 0;
+  width: 7px;
+  height: 15px;
 }
 
 /* line 828, ../sass/style.scss */
 .twetter {
-  background-image: url(../img/tw.png);
-  background-position: 0px 0px;
-  width: 36px;
-  height: 36px;
+  background: url(../img/tw.png) no-repeat 0 0;
+  width: 14px;
+  height: 11px;
 }
 
-/* line 834, ../sass/style.scss */
+/* line 833, ../sass/style.scss */
 .twetter:hover {
-  background-image: url(../img/twitter_hov.png);
-  background-position: -36px 0px;
-  width: 35px;
-  height: 35px;
+  background: url(../img/tw_hov.png) no-repeat 0 0;
+  width: 14px;
+  height: 11px;
 }
 
-/* line 840, ../sass/style.scss */
+/* line 838, ../sass/style.scss */
 .dribble {
-  background-image: url(../img/db.png);
-  background-position: 0px 0px;
-  width: 36px;
-  height: 36px;
+  background: url(../img/db.png) no-repeat 0 0;
+  width: 16px;
+  height: 16px;
 }
 
-/* line 847, ../sass/style.scss */
+/* line 844, ../sass/style.scss */
 .dribble:hover {
-  background-image: url(../img/db_hov.png);
-  background-position: -36px 0px;
-  width: 35px;
-  height: 35px;
+  background: url(../img/db_hov.png.) no-repeat 0 0;
+  width: 16px;
+  height: 16px;
 }
 
-/* line 853, ../sass/style.scss */
+/* line 849, ../sass/style.scss */
 .instagram {
-  background-image: url(../img/ins.png);
-  background-position: 0px 0px;
-  width: 36px;
-  height: 36px;
+  background: url(../img/in.png) no-repeat 0 0;
+  width: 15px;
+  height: 15px;
+}
+
+/* line 854, ../sass/style.scss */
+.instagram:hover {
+  background: url(../img/in_hov.png) no-repeat 0 0;
+  width: 15px;
+  height: 15px;
 }
 
 /* line 859, ../sass/style.scss */
-.instagram:hover {
-  background-image: url(../img/instagram_hov.png);
-  background-position: -36px 0px;
-  width: 35px;
-  height: 35px;
-}
-
-/* line 865, ../sass/style.scss */
 .google {
-  background-image: url(../img/go.png);
-  background-position: 0px 0px;
-  width: 36px;
-  height: 36px;
+  background: url(../img/gog.png) no-repeat 0 0;
+  width: 15px;
+  height: 14px;
 }
 
-/* line 871, ../sass/style.scss */
+/* line 864, ../sass/style.scss */
 .google:hover {
-  background-image: url(../img/google_hov.png);
-  background-position: -36px 0px;
-  width: 35px;
-  height: 35px;
+  background: url(../img/gog_hov.png) no-repeat 0 0;
+  width: 15px;
+  height: 14px;
 }
 
-/* line 877, ../sass/style.scss */
+/* line 869, ../sass/style.scss */
 .youtube {
-  background-image: url(../img/yout.png);
-  background-position: 0px 0px;
-  width: 36px;
-  height: 36px;
+  background: url(../img/yout.png) no-repeat 0 0;
+  width: 17px;
+  height: 11px;
 }
 
-/* line 883, ../sass/style.scss */
+/* line 874, ../sass/style.scss */
 .youtube:hover {
-  background-image: url(../img/youtube_hov.png);
-  background-position: -36px 0px;
-  width: 35px;
-  height: 35px;
+  background: url(../img/yout_hov.png) no-repeat 0 0;
+  width: 17px;
+  height: 11px;
 }
 
-/* line 889, ../sass/style.scss */
+/* line 879, ../sass/style.scss */
 .footer-copyright {
   display: -webkit-flex;
   display: -moz-flex;
@@ -1545,7 +1533,7 @@ button {
   justify-content: space-between;
 }
 
-/* line 897, ../sass/style.scss */
+/* line 887, ../sass/style.scss */
 .footer-copyright__menu {
   display: -webkit-flex;
   display: -moz-flex;
@@ -1554,7 +1542,7 @@ button {
   display: flex;
 }
 
-/* line 906, ../sass/style.scss */
+/* line 896, ../sass/style.scss */
 .footer-copyright__menu-link {
   text-decoration: none;
   color: #ffffff;
@@ -1569,7 +1557,7 @@ button {
   margin-top: 38px;
 }
 
-/* line 920, ../sass/style.scss */
+/* line 910, ../sass/style.scss */
 .footer-copyright__autor {
   color: #ffffff;
   font-family: 'Roboto';
